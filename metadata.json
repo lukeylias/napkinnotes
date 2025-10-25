@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Note Formatter",
+  "description": "A simple note-taking app that uses AI to automatically format and clean up your notes into beautiful markdown. Inspired by Sublime Text and Bear Notes, it provides a single-note interface where you can type freely, and with a click of a button, have your text transformed into well-structured, readable markdown.",
+  "requestFramePermissions": []
+}
